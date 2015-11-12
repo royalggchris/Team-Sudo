@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"parsedAsObjects"
+			],
+			[
+				"parsed",
+				"parsedAsObjects"
+			],
+			[
+				"read",
+				"readAsText"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"t",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 721,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sample.json",
+			"settings":
+			{
+				"buffer_size": 2042,
+				"line_ending": "Unix",
+				"name": "body {"
+			}
+		},
+		{
+			"file": "concept-graph.js",
+			"settings":
+			{
+				"buffer_size": 14490,
+				"line_ending": "Unix",
+				"name": "var CollapsibleTree = function(elt) {"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/index.html",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/js/main.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/js/requestBuilder.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/todos.txt",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/js/sendRequest.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/Applicants_Trimmed.xml",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/Recruitment_Baseline.xml",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/js/requestBuilderOld.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/Recruitment_Trimmed.xml",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/js/AdmissionsLetter.xml",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/js/AdmissionsLetter.xsd",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/style.css",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/js/buildProspect.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/js/buildProspTest.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/js/main090915.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hella-data/js/requestBuilders.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/Chrome Extension/js/ui/SuvRow.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/Chrome Extension/js/ui/SuvRowSettings.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Data Files/HD_AMU_F15_UG_5000_1.csv",
+		"/Users/zachary.heath/Desktop/TestRepeatedRows.xml",
+		"/Users/zachary.heath/Desktop/TestRepeatedRowsXML.xml",
+		"/Users/zachary.heath/Downloads/index (1).html",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/HD Reboot/main.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/HD Reboot/jquery.csv.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/HD Reboot/style.css",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/Chrome Extension/index.html",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/HD Reboot/requestBuilders.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/HD Reboot/test.csv",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/HD Reboot/main090915.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/HD Reboot/jquery.min.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/HD Reboot/index.html",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/HD Reboot/manifest.json",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/Chrome Extension/css/style.css",
+		"/Users/zachary.heath/Downloads/Hella apps.csv",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/Chrome Extension/HellaData Release Notes.txt",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/Chrome Extension/manifest.json",
+		"/Users/zachary.heath/Documents/workspace/Transcript/Test1_XSD.xml",
+		"/Users/zachary.heath/Documents/workspace/Transcript/Test1_Workday_XML.xml",
+		"/Users/zachary.heath/Documents/Project HellaData/Data Files/HD_CAS_F15_UG_35000_25000.csv",
+		"/Users/zachary.heath/Documents/Project HellaData/Data Files/HD_CAS_F15_UG_35000_25000_C.csv",
+		"/Users/zachary.heath/Documents/Project HellaData/Data Files/HD_CAS_F15_UG_35000_25000_A.csv",
+		"/Users/zachary.heath/Documents/Project HellaData/Data Files/HD_CAS_F15_UG_35000_25000_B.csv",
+		"/Users/zachary.heath/Documents/Project HellaData/Data Files/HD_CAS_F15_UG_100_50.csv",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/20150515 Applicants2.csv",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/20150519 Applicants200.csv",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/20150513 Applicants100.csv",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Extension Version/manifest.json",
+		"/Users/zachary.heath/Desktop/ws_request_applications.txt",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Extension Version/js/ui/CollapsibleRow.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Extension Version/js/ui/SuvTimeButton.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/testNodeBuilder.html",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/node_builder.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Applicant_HighVolume.rtf",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/hello-world.html",
+		"/Users/zachary.heath/Documents/Project HellaData/readme.txt",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/opensuv.html",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/lib/highlight.pack.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/lib/require.js",
+		"/Users/zachary.heath/Documents/Project HellaData/Current Version/lib/suvmanager.js",
+		"/Users/zachary.heath/Documents/Project HellaData/node_builder.js",
+		"/Users/zachary.heath/Desktop/prospect_loader 2/c_ext/js/background/requestBuilder.js",
+		"/Users/zachary.heath/Desktop/prospect_loader 2/c_ext/example.html",
+		"/Users/zachary.heath/Desktop/prospect_loader 2/c_ext/js/background/core/jquery.min.js",
+		"/Users/zachary.heath/Desktop/prospect_loader 2/c_ext/manifest.json",
+		"/Users/zachary.heath/Desktop/prospect_loader 2/c_ext/popup.html",
+		"/Users/zachary.heath/Desktop/prospect_loader 2/DevBuild/js/ui/core/Popup.js",
+		"/Users/zachary.heath/Desktop/prospect_loader 2/c_ext/popup.css",
+		"/Users/zachary.heath/Desktop/prospect_loader 2/c_ext/popup.js",
+		"/Users/zachary.heath/Desktop/prospect_loader 2/manifest.json",
+		"/Users/zachary.heath/tbm/client/templates/courses/courses_list.html",
+		"/Users/zachary.heath/meteor/LendLib/client/js/LendLibClient.js",
+		"/Users/zachary.heath/meteor/LendLib/client/LendLib.html",
+		"/Users/zachary.heath/meteor/LendLib/server/LendLibServer.js",
+		"/Users/zachary.heath/tbm/tbm.html",
+		"/Users/zachary.heath/meteor/LendLib/LendLib.js",
+		"/Users/zachary.heath/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/zachary.heath/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/Users/zachary.heath/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/zachary.heath/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/zachary.heath/tbm/server/methods.js",
+		"/Users/zachary.heath/tbm/lib/collections/courses.js",
+		"/Users/zachary.heath/tbm/client/templates/courses/courses_list.js",
+		"/Users/zachary.heath/tbm/server/publications.js",
+		"/Users/zachary.heath/tbm/client/subscriptions.js",
+		"/Users/zachary.heath/tbm/lib/collections/courses_cfs.js",
+		"/Users/zachary.heath/simple-todos/simple-todos.js",
+		"/Users/zachary.heath/tbm/client/templates/courses/courses_load.html",
+		"/Users/zachary.heath/tbm/client/templates/courses/courses_load.js",
+		"/Users/zachary.heath/tbm/lib/router.js",
+		"/Users/zachary.heath/tbm/client/templates/includes/header.html",
+		"/Users/zachary.heath/tbm/server/fixtures.js",
+		"/Users/zachary.heath/tbm/client/courses/courses_list.js",
+		"/Users/zachary.heath/tbm/client/courses/courses_list.html",
+		"/Users/zachary.heath/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/zachary.heath/tbm/client/templates/tenants/tenants_list.html",
+		"/Users/zachary.heath/tbm/client/templates/tenants/tenant_new.html",
+		"/Users/zachary.heath/tbm/client/courses/load_courses.html",
+		"/Users/zachary.heath/tbm/lib/collections/tenants.js",
+		"/Users/zachary.heath/tbm/client/templates/application/load_courses.html",
+		"/Users/zachary.heath/tbm/client/main.html",
+		"/Users/zachary.heath/tbm/lib/collections/entities.js",
+		"/Users/zachary.heath/tbm/client/templates/tenants/tenant_new.js",
+		"/Users/zachary.heath/tbm/client/templates/includes/footer.html",
+		"/Users/zachary.heath/tbm/client/templates/tenants/tenants_list.js",
+		"/Users/zachary.heath/meteor/todos/client/templates/todos-item.js",
+		"/Users/zachary.heath/meteor/todos/client/templates/todos-item.html",
+		"/Users/zachary.heath/meteor/todos/client/head.html",
+		"/Users/zachary.heath/meteor/TBM/TBM.js",
+		"/Users/zachary.heath/meteor/TBM/client/css/TBM.css",
+		"/Users/zachary.heath/meteor/TBM/matches.js",
+		"/Users/zachary.heath/simple-todos/simple-todos.html",
+		"/Users/zachary.heath/meteor/TBM/client/js/addCourse.js",
+		"/Users/zachary.heath/meteor/TBM/client/js/crseList.js",
+		"/Users/zachary.heath/meteor/TBM/client/css/bootstrap.css",
+		"/Users/zachary.heath/meteor/TBM/client/css/bootstrap.min.css",
+		"/Users/zachary.heath/meteor/TBM/TBM.css",
+		"/Users/zachary.heath/meteor/TBM/stories.txt",
+		"/Users/zachary.heath/meteor/TBM/client/js/contract.js",
+		"/Users/zachary.heath/meteor/TBM/client/js/deptsList.js",
+		"/Users/zachary.heath/meteor/TBM/client/deptsList.js",
+		"/Users/zachary.heath/meteor/TBM/client/facTypeList.js",
+		"/Users/zachary.heath/simple-todos/simple-todos.css",
+		"/Users/zachary.heath/meteor/LendLib/LendLib.css",
+		"/Users/zachary.heath/meteor/todos/mobile-config.js",
+		"/Users/zachary.heath/meteor/todos/lib/collections.js",
+		"/Users/zachary.heath/meteor/todos/lib/router.js",
+		"/Users/zachary.heath/meteor/todos/client/lib/jquery.touchwipe.js",
+		"/Users/zachary.heath/tbm/tbm.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/zachary.heath/Documents/Project HellaData/Current Version/Chrome Extension/js",
+			"/Users/zachary.heath/Documents/Project HellaData/Current Version/Chrome Extension/js/ui",
+			"/Users/zachary.heath/Desktop/prospect_loader 2/c_ext/js",
+			"/Users/zachary.heath/Desktop/prospect_loader 2/c_ext",
+			"/Users/zachary.heath/Desktop/prospect_loader 2/c_ext/css",
+			"/Users/zachary.heath/Desktop/prospect_loader 2/c_ext/js/ui",
+			"/Users/zachary.heath/tbm/.meteor",
+			"/Users/zachary.heath/meteor/todos"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"data.",
+			"\"",
+			"\n",
+			"  ",
+			" ",
+			"data.",
+			"\"",
+			"student_recruitment_prospect_sub",
+			"student_prospect_sub",
+			"student_prospect_person_data",
+			"student_recruitment_data",
+			"student_prospect_data",
+			"student_applicant_application_data",
+			"buildPhoneData",
+			"buildAddressData",
+			"buildSingleApplication",
+			"\\\"",
+			"buildPh",
+			"ptype",
+			"\"?\"",
+			"buildperson",
+			"buildaddr",
+			"suv.password",
+			".parent.id",
+			"hostname",
+			"password",
+			"createBulkRequest",
+			"border",
+			"are",
+			"buildEdu",
+			"buildRecr",
+			"build",
+			"buildEduInstData",
+			"buildSingleApp",
+			" ",
+			"buildSingleApplication",
+			"buildSingle",
+			"ssn_issued_date",
+			"buildPersonData",
+			"address_node",
+			"street_address_usage_behavior_id_1",
+			"home_address_usage",
+			"buildAddressData",
+			"buildSingleRec",
+			"buildAddressData",
+			"buildSingleApplication",
+			"createBulkRequest",
+			"m0",
+			"\\n",
+			"for",
+			"phantom car",
+			"illegal state",
+			"endOfLine()",
+			"phantom carriage",
+			"illegal state",
+			"th",
+			"table",
+			"hostname6",
+			"hostname",
+			"password",
+			"import_",
+			"hostename",
+			"utts-s",
+			"console.log",
+			"import_student",
+			"console.log",
+			"import_student",
+			"action",
+			"super",
+			"import file",
+			"request count",
+			"createBulkReq",
+			"request C",
+			"createBulkRequest",
+			"createBulkRequ",
+			"console.log",
+			"buildSingleRec",
+			"console.log",
+			"home_address",
+			"buildAddressData",
+			"stage",
+			"level",
+			"leveld",
+			"level",
+			"buildRecruitmentData",
+			"source",
+			"soure",
+			"recruitment",
+			"buildApplicationData",
+			"&",
+			"soapenv",
+			"environemnt",
+			"body>",
+			"/envelope",
+			"student_applicant",
+			"first_gen",
+			"console.log",
+			"file_status",
+			"WATS",
+			"button",
+			"buildApp",
+			"buildRecruitment",
+			"applications",
+			"applicant",
+			"prospects",
+			"buildSingleRecruitment",
+			"prospects",
+			"ws_type",
+			"prospect",
+			"bulk",
+			"import",
+			"address_node",
+			"\n													 ",
+			"address_node",
+			"person_data",
+			"student_applicant_data",
+			"console\nconsole",
+			"console",
+			"createStudentProspectBulkRequest",
+			"createStudentProspectBulk",
+			"csv",
+			"Extensions",
+			"default",
+			"resp_base",
+			"password",
+			"alert",
+			"alert//",
+			"alert"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\" + data.",
+			"\\\"",
+			"",
+			"\" + data.",
+			" + data.",
+			"\\\"",
+			"\\\\\\\"",
+			"\\\\\"",
+			"\\\"?\\\"",
+			"_",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								721,
+								721
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sample.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								238
+							]
+						],
+						"settings":
+						{
+							"auto_name": "body {",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "concept-graph.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14490,
+								14490
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var CollapsibleTree = function(elt) {",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "team-sudo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
