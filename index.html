@@ -1,29 +1,49 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <title>2-Way Tree</title>
-    <link rel="stylesheet" href="assets/css/d3-collapsible-tree.css">
-
-
-    <script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript" src="assets/js/d3/d3.min.js"></script>
-    <script type="text/javascript" src="assets/js/d3/d3.layout.js"></script>
-
+    <meta charset="utf-8">
+    <title>Team Sudo: Workday Object Navigator</title>
+    <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/main.css" rel="stylesheet">
   </head>
   <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Team Sudo</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right">
+            <input type="text" class="form-control" placeholder="Search...">
+          </form>
+        </div>
+      </div>
+    </nav>
 
-    <h1 align="center">2-Way Tree</h1>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar">
+          <ul class="nav nav-sidebar">
+            <li class="active"><a href="#">RDS Number 1<span class="sr-only">(current)</span></a></li>
+            <li><a href="#">RDS Number 2</a></li>
+            <li><a href="#">RDS Number 3</a></li>
+            <li><a href="#">RDS Number 4</a></li>
+        </div>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+          <h1 class="page-header">Workday Object Navigator</h1>
+            <script src="assets/js/d3/d3.min.js"></script>
+            <script src="assets/js/sidewaysTree.js"></script>
+        </div>
+      </div>
+    </div>
 
-    <div id="categoryHierarchy"></div>
-
-    <script type="text/javascript" src="assets/js/d3/concept-graph.js"></script>
-
-    <script>
-      $(document).ready(function(event) {
-        var tree = CollapsibleTree("#categoryHierarchy");
-        tree.init('sample.json');
-      });
-
-
-    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   </body>
 </html>
